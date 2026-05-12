@@ -121,7 +121,6 @@ async fn decrypt_android_uri(
                 .finalize(next)?;
             break;
         }
-
     }
 
     let mut no_encry_source = source
