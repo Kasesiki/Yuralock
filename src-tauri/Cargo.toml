@@ -39,3 +39,4 @@ lto = true # Enables link-time-optimizations.
 opt-level = 's'
 panic = "abort" # Higher performance by disabling panic handlers.
 strip = true # Ensures debug symbols are removed.
+
